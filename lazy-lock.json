@@ -28,6 +28,7 @@
   "onedarkpro.nvim": { "branch": "main", "commit": "e9b44b946bb7760f8125e3bfc648deebb9328e52" },
   "persistence.nvim": { "branch": "main", "commit": "f6aad7dde7fcf54148ccfc5f622c6d5badd0cc3d" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
+  "smear-cursor.nvim": { "branch": "main", "commit": "7240dcc47abcd2468d8ad1c479215301ec6c20cd" },
   "snacks.nvim": { "branch": "main", "commit": "41d2c7b6a5d75c2063ee8398c3e0fb5e467e9c46" },
   "todo-comments.nvim": { "branch": "main", "commit": "ae0a2afb47cf7395dc400e5dc4e05274bf4fb9e0" },
   "tokyonight.nvim": { "branch": "main", "commit": "45d22cf0e1b93476d3b6d362d720412b3d34465c" },

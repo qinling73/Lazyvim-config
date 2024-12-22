@@ -1,6 +1,1 @@
-# 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
-
-测试中文
+个人nvim Lazyvim配置备份，方便其他设备用
